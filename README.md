@@ -1,7 +1,7 @@
 # Candidate Search
 
 ## Live Demo
-The application is live at: [https://your-app-name.netlify.app](https://your-app-name.netlify.app)
+The application is live at: [https://candidate-searcher.netlify.app]([https://your-app-name.netlify.app](https://candidate-searcher.netlify.app))
 
 ## Description
 A React app for searching and displaying candidate profiles.
