@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 0bd91946c2ae446b7865262f20dffc6558fc952f Antonio <antoniomatallc@gmail.com> 1736731069 -0800	commit (initial): Add package.json file
+0bd91946c2ae446b7865262f20dffc6558fc952f 0bd91946c2ae446b7865262f20dffc6558fc952f Antonio <antoniomatallc@gmail.com> 1736731156 -0800	Branch: renamed refs/heads/master to refs/heads/main
+0bd91946c2ae446b7865262f20dffc6558fc952f 043d44bc30b3d2172eff6230df8b9be1c9dd2428 Antonio <antoniomatallc@gmail.com> 1736731253 -0800	commit: commit with project files
+043d44bc30b3d2172eff6230df8b9be1c9dd2428 043d44bc30b3d2172eff6230df8b9be1c9dd2428 Antonio <antoniomatallc@gmail.com> 1736731263 -0800	Branch: renamed refs/heads/main to refs/heads/main
+043d44bc30b3d2172eff6230df8b9be1c9dd2428 ec70cb4dafbad6ac94fc5cc7c3d9a69df68a154e Antonio <antoniomatallc@gmail.com> 1736731291 -0800	rebase finished: refs/heads/main onto 7d96db3f6740df81f407894b3fd41df34eb0fd2b
+ec70cb4dafbad6ac94fc5cc7c3d9a69df68a154e b37ce8bd70d6f75b0c509742c31a851110daa909 Antonio <antoniomatallc@gmail.com> 1736731414 -0800	commit: Add local changes
+b37ce8bd70d6f75b0c509742c31a851110daa909 47e9f8166bca729144a48f95e04946b09a1134b8 Antonio <antoniomatallc@gmail.com> 1736732080 -0800	commit: Remove submodule reference
+47e9f8166bca729144a48f95e04946b09a1134b8 439f323bf530b282715654b8202c3cfbf220fed0 Antonio <antoniomatallc@gmail.com> 1736732287 -0800	commit: Remove invalid submodule reference
+439f323bf530b282715654b8202c3cfbf220fed0 df57f6a97469dc61e39a3a1f7653c19686157d42 Antonio <antoniomatallc@gmail.com> 1736736198 -0800	commit: Fix dependencies and tests
