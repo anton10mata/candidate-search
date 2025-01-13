@@ -1,4 +1,4 @@
-const reportWebVitals = (onPerfEntry?: any) => {
+const reportWebVitals = (onPerfEntry?: (entry: any) => void) => {
   if (onPerfEntry && onPerfEntry instanceof Function) {
     import("web-vitals").then((module) => {
       module.onCLS(onPerfEntry);
