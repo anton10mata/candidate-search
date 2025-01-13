@@ -1,5 +1,24 @@
-# Getting Started with Create React App
+# Candidate Search
 
+## Live Demo
+The application is live at: [https://your-app-name.netlify.app](https://your-app-name.netlify.app)
+
+## Description
+A React app for searching and displaying candidate profiles.
+
+## Running Locally
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/anton10mata/candidate-search.git
+
+2. Install dependencies:
+   ```bash
+    npm install
+
+3. Start the development server:
+  ```bash
+    npm start# Getting Started with Create React App
+```
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
