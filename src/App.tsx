@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import CandidateCard from "./components/CandidateCard";
 import CandidateTable from "./components/CandidateTable";
 import { fetchCandidates, User } from "./services/githubApi";
+import './styles.css';
 
 const App: React.FC = () => {
   const [candidates, setCandidates] = useState<User[]>([]);
